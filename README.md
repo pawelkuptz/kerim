@@ -1,1 +1,3 @@
 # kerim
+
+Prototyp projektu.
